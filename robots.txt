@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hpg6e2.pulaucuan.space/sitemap.xml
